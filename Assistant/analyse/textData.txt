@@ -1,0 +1,101 @@
+Entry #	Date	Time	Location	Shape	Duration	Description	Witnesses	Investigation	Evidence
+1	2021-01-01	21:30:00	New York, NY	Sphere	2 hours	Bright object hovering	3	Yes	[Link to photo or video]
+2	2021-02-10	08:45:00	Los Angeles, CA	Triangle	15 mins	Strange lights in the sky	2	No	N/A
+3	2021-03-05	19:00:00	London, UK	Disk	30 seconds	Metallic object flew overhead	1	Yes	[Link to witness account]
+4	2021-04-12	13:15:00	Sydney, Australia	Cigar	1 hour	Long, cylindrical object in the sky	4	No	N/A
+5	2021-05-20	10:00:00	Tokyo, Japan	Triangle	5 mins	Three lights forming a triangle	2	Yes	[Link to photo or video]
+6	2021-06-08	22:45:00	Paris, France	Oval	10 mins	Bright oval-shaped object	1	No	N/A
+7	2021-07-14	03:30:00	Berlin, Germany	Disk	2 mins	Disc-shaped object hovering	3	Yes	[Link to witness account]
+8	2021-08-25	18:20:00	Moscow, Russia	Sphere	30 seconds	Glowing sphere moving erratically	2	No	N/A
+9	2021-09-02	09:10:00	Beijing, China	Triangle	20 mins	Triangular object in the sky	1	Yes	[Link to photo or video]
+10	2021-10-09	16:45:00	Rio de Janeiro	Disk	5 mins	Disk-shaped object hovering	4	No	N/A
+11	2021-11-15	07:00:00	Cairo, Egypt	Sphere	1 hour	Bright orb changing colors	2	Yes	[Link to witness account]
+12	2021-12-22	23:55:00	Mumbai, India	Cigar	3 mins	Long, cylindrical object in the sky	1	No	N/A
+13	2022-01-03	20:30:00	New York, NY	Triangle	15 mins	Triangular object with flashing lights	3	Yes	[Link to photo or video]
+14	2022-02-14	09:15:00	Los Angeles, CA	Sphere	10 mins	Bright orb hovering	2	No	N/A
+15	2022-03-07	18:45:00	London, UK	Disk	2 mins	Metallic disk-shaped object	1	Yes	[Link to witness account]
+16	2022-04-16	12:30:00	Sydney, Australia	Oval	45 seconds	Oval-shaped object in the sky	4	No	N/A
+17	2022-05-21	11:20:00	Tokyo, Japan	Triangle	8 mins	Triangular craft with bright lights	2	Yes	[Link to photo or video]
+18	2022-06-09	23:00:00	Paris, France	Sphere	5 mins	Glowing sphere hovering	1	No	N/A
+19	2022-07-19	02:45:00	Berlin, Germany	Disk	3 mins	Disk-shaped object in the sky	3	Yes	[Link to witness account]
+20	2022-08-28	20:10:00	Moscow, Russia	Triangle	1 hour	Triangular craft with pulsating lights	2	No	N/A
+21	2022-09-05	08:30:00	Beijing, China	Sphere	25 mins	Bright spherical object	1	Yes	[Link to photo or video]
+22	2022-10-14	17:50:00	Rio de Janeiro	Oval	6 mins	Oval-shaped craft hovering	4	No	N/A
+23	2022-11-20	06:30:00	Cairo, Egypt	Disk	45 seconds	Metallic disk in the sky	2	Yes	[Link to witness account]
+24	2022-12-25	00:05:00	Mumbai, India	Sphere	2 mins	Glowing sphere moving erratically	1	No	N/A
+25	2023-01-01	22:15:00	New York, NY	Triangle	12 mins	Triangular object with flashing lights	3	Yes	[Link to photo or video]
+26	2023-02-12	07:55:00	Los Angeles, CA	Sphere	8 mins	Bright orb hovering	2	No	N/A
+27	2023-03-08	19:15:00	London, UK	Disk	3 mins	Shiny disk-shaped object	1	Yes	[Link to witness account]
+28	2023-04-14	14:40:00	Sydney, Australia	Oval	30 seconds	Oval-shaped object in the sky	4	No	N/A
+29	2023-05-01	20:30:00	Tokyo, Japan	Triangle	10 mins	Triangular object with pulsating lights	2	Yes	[Link to photo or video]
+30	2023-06-12	12:45:00	Paris, France	Sphere	15 mins	Bright orb hovering	1	No	N/A
+31	2023-07-05	03:00:00	Berlin, Germany	Disk	5 mins	Disk-shaped object in the sky	3	Yes	[Link to witness account]
+32	2023-08-13	19:45:00	Moscow, Russia	Cigar	2 mins	Cigar-shaped craft hovering	2	No	N/A
+33	2023-09-21	08:20:00	Beijing, China	Sphere	30 mins	Luminous sphere in the sky	1	Yes	[Link to photo or video]
+34	2023-10-29	16:10:00	Rio de Janeiro	Oval	8 mins	Oval-shaped object hovering	4	No	N/A
+35	2023-11-28	05:45:00	Cairo, Egypt	Triangle	1 hour	Triangular craft with flashing lights	2	Yes	[Link to witness account]
+36	2023-12-25	01:30:00	Mumbai, India	Disk	3 mins	Metallic disk in the sky	1	No	N/A
+37	2024-01-10	23:15:00	New York, NY	Sphere	10 mins	Glowing sphere hovering	3	Yes	[Link to photo or video]
+38	2024-02-18	09:30:00	Los Angeles, CA	Oval	12 mins	Oval-shaped craft with bright lights	2	No	N/A
+39	2024-03-11	21:20:00	London, UK	Disk	4 mins	Disk-shaped object in the sky	1	Yes	[Link to witness account]
+40	2024-04-09	13:50:00	Sydney, Australia	Triangle	20 seconds	Triangular craft hovering	4	No	N/A
+41	2024-05-19	10:40:00	Tokyo, Japan	Sphere	5 mins	Bright sphere moving erratically	2	Yes	[Link to photo or video]
+42	2024-06-22	00:15:00	Paris, France	Cigar	2 mins	Cigar-shaped object in the sky	1	No	N/A
+43	2024-07-15	03:45:00	Berlin, Germany	Disk	4 mins	Shiny disk-shaped object	3	Yes	[Link to witness account]
+44	2024-08-27	20:25:00	Moscow, Russia	Triangle	1 hour	Triangular craft with pulsating lights	2	No	N/A
+45	2024-09-02	08:35:00	Beijing, China	Sphere	25 mins	Glowing sphere moving in the sky	1	Yes	[Link to photo or video]
+46	2024-10-08	18:50:00	Rio de Janeiro	Oval	6 mins	Oval-shaped craft hovering	4	No	N/A
+47	2024-11-21	05:40:00	Cairo, Egypt	Disk	1 min	Disk-shaped object in the sky	2	Yes	[Link to witness account]
+48	2024-12-25	00:10:00	Mumbai, India	Sphere	2 mins	Glowing sphere moving erratically	1	No	N/A
+49	2025-01-05	21:50:00	New York, NY	Triangle	10 mins	Triangular object with flashing lights	3	Yes	[Link to photo or video]
+50	2025-02-11	08:00:00	Los Angeles, CA	Sphere	8 mins	Bright orb hovering	2	No	N/A
+51	2025-03-08	18:30:00	London, UK	Disk	3 mins	Shiny disk-shaped object	1	Yes	[Link to witness account]
+52	2025-04-16	12:25:00	Sydney, Australia	Oval	40 seconds	Oval-shaped object in the sky	4	No	N/A
+53	2025-05-21	11:15:00	Tokyo, Japan	Triangle	7 mins	Triangular craft with bright lights	2	Yes	[Link to photo or video]
+54	2025-06-09	23:10:00	Paris, France	Sphere	5 mins	Glowing sphere hovering	1	No	N/A
+55	2025-07-19	02:35:00	Berlin, Germany	Disk	3 mins	Disk-shaped object in the sky	3	Yes	[Link to witness account]
+56	2025-08-28	20:15:00	Moscow, Russia	Cigar	2 mins	Cigar-shaped craft hovering	2	No	N/A
+57	2025-09-21	08:20:00	Beijing, China	Sphere	30 mins	Luminous sphere in the sky	1	Yes	[Link to photo or video]
+58	2025-10-29	16:10:00	Rio de Janeiro	Oval	8 mins	Oval-shaped object hovering	4	No	N/A
+59	2025-11-28	05:45:00	Cairo, Egypt	Triangle	1 hour	Triangular craft with flashing lights	2	Yes	[Link to witness account]
+60	2024-02-18	09:30:00	Los Angeles, CA	Oval	12 mins	Oval-shaped craft with bright lights	2	No	N/A
+61	2024-03-11	21:20:00	London, UK	Disk	4 mins	Disk-shaped object in the sky	1	Yes	[Link to witness account]
+62	2024-04-09	13:50:00	Sydney, Australia	Triangle	20 seconds	Triangular craft hovering	4	No	N/A
+63	2024-05-19	10:40:00	Tokyo, Japan	Sphere	5 mins	Bright sphere moving erratically	2	Yes	[Link to photo or video]
+64	2024-06-22	00:15:00	Paris, France	Cigar	2 mins	Cigar-shaped object in the sky	1	No	N/A
+65	2024-07-15	03:45:00	Berlin, Germany	Disk	4 mins	Shiny disk-shaped object	3	Yes	[Link to witness account]
+66	2024-08-27	20:25:00	Moscow, Russia	Triangle	1 hour	Triangular craft with pulsating lights	2	No	N/A
+67	2024-09-02	08:35:00	Beijing, China	Sphere	25 mins	Glowing sphere moving in the sky	1	Yes	[Link to photo or video]
+68	2024-10-08	18:50:00	Rio de Janeiro	Oval	6 mins	Oval-shaped craft hovering	4	No	N/A
+69	2024-11-21	05:40:00	Cairo, Egypt	Disk	1 min	Disk-shaped object in the sky	2	Yes	[Link to witness account]
+70	2024-12-25	00:10:00	Mumbai, India	Sphere	2 mins	Glowing sphere moving erratically	1	No	N/A
+71	2025-01-05	21:50:00	New York, NY	Triangle	10 mins	Triangular object with flashing lights	3	Yes	[Link to photo or video]
+72	2025-02-11	08:00:00	Los Angeles, CA	Sphere	8 mins	Bright orb hovering	2	No	N/A
+73	2025-03-08	18:30:00	London, UK	Disk	3 mins	Shiny disk-shaped object	1	Yes	[Link to witness account]
+74	2025-04-16	12:25:00	Sydney, Australia	Oval	40 seconds	Oval-shaped object in the sky	4	No	N/A
+75	2025-05-21	11:15:00	Tokyo, Japan	Triangle	7 mins	Triangular craft with bright lights	2	Yes	[Link to photo or video]
+76	2025-06-09	23:10:00	Paris, France	Sphere	5 mins	Glowing sphere hovering	1	No	N/A
+77	2025-07-19	02:35:00	Berlin, Germany	Disk	3 mins	Disk-shaped object in the sky	3	Yes	[Link to witness account]
+78	2025-08-28	20:15:00	Moscow, Russia	Cigar	2 mins	Cigar-shaped craft hovering	2	No	N/A
+79	2025-09-21	08:20:00	Beijing, China	Sphere	30 mins	Luminous sphere in the sky	1	Yes	[Link to photo or video]
+80	2025-10-29	16:10:00	Rio de Janeiro	Oval	8 mins	Oval-shaped object hovering	4	No	N/A
+81	2025-11-28	05:45:00	Cairo, Egypt	Triangle	1 hour	Triangular craft with flashing lights	2	Yes	[Link to witness account]
+82	2025-12-25	01:30:00	Mumbai, India	Disk	3 mins	Metallic disk in the sky	1	No	N/A
+83	2026-01-10	23:15:00	New York, NY	Sphere	10 mins	Glowing sphere hovering	3	Yes	[Link to photo or video]
+84	2026-02-18	09:30:00	Los Angeles, CA	Oval	12 mins	Oval-shaped craft with bright lights	2	No	N/A
+85        2026-03-11 21:20:00  London, UK       Disk    4 mins     Disk-shaped object in the sky         1           Yes              [Link to witness account]
+86        2026-04-09 13:50:00  Sydney, Australia  Triangle  20 seconds  Triangular craft hovering           4           No              N/A
+87        2026-05-19 10:40:00  Tokyo, Japan     Sphere  5 mins     Bright sphere moving erratically       2           Yes              [Link to photo or video]
+88        2026-06-22 00:15:00  Paris, France    Cigar   2 mins     Cigar-shaped object in the sky         1           No               N/A
+89        2026-07-15 03:45:00  Berlin, Germany  Disk    4 mins     Shiny disk-shaped object               3           Yes              [Link to witness account]
+90        2026-08-27 20:25:00  Moscow, Russia   Triangle  1 hour     Triangular craft with pulsating lights  2           No               N/A
+91        2026-09-02 08:35:00  Beijing, China   Sphere  25 mins    Glowing sphere moving in the sky        1           Yes              [Link to photo or video]
+92        2026-10-08 18:50:00  Rio de Janeiro   Oval    6 mins     Oval-shaped craft hovering             4           No               N/A
+93        2026-11-21 05:40:00  Cairo, Egypt     Disk    1 min      Disk-shaped object in the sky          2           Yes              [Link to witness account]
+94        2026-12-25 00:10:00  Mumbai, India    Sphere  2 mins     Glowing sphere moving erratically       1           No               N/A
+95        2027-01-05 21:50:00  New York, NY     Triangle  10 mins    Triangular object with flashing lights  3           Yes              [Link to photo or video]
+96        2027-02-11 08:00:00  Los Angeles, CA  Sphere  8 mins     Bright orb hovering                    2           No               N/A
+97        2027-03-08 18:30:00  London, UK       Disk    3 mins     Shiny disk-shaped object               1           Yes              [Link to witness account]
+98        2027-04-16 12:25:00  Sydney, Australia  Oval   40 seconds  Oval-shaped object in the sky          4           No               N/A
+99        2027-05-21 11:15:00  Tokyo, Japan     Triangle  7 mins     Triangular craft with bright lights     2           Yes              [Link to photo or video]
+100       2027-06-09 23:10:00  Paris, France    Sphere  5 mins     Glowing sphere hovering                1           No               N/A

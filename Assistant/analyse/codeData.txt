@@ -1,0 +1,26 @@
+import speech_recognition as sr
+
+# Create a recognizer object
+recognizer = sr.Recognizer()
+
+# Set the path to your Google Speech-to-Text API credentials JSON file
+credentials_file = "/path/to/credentials.json"
+
+# Set the audio file you want to transcribe
+audio_file = "/path/to/audio.wav"
+
+# Load the API credentials
+recognizer.credentials = sr.CloudSpeechCredentials.from_service_account_file(credentials_file)
+
+# Load the audio file
+with sr.AudioFile(audio_file) as source:
+    audio = recognizer.record(source)
+
+# Perform speech recognition
+try:
+    transcription = recognizer.recognize_google(audio)
+    print("Transcription:", transcription)
+except sr.UnknownValueError:
+    print("Speech recognition could not understand audio")
+except sr.RequestError as e:
+    print("Could not request results from Google Speech Recognition service; {0}".format(e))
